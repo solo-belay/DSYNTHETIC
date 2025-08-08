@@ -1,0 +1,2 @@
+# SAFE TO DELETE: These files are not used by the landing page and can be removed for a clean production build.
+# If you want to restore them, check your version control history.

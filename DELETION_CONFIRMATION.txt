@@ -1,0 +1,13 @@
+# The following files will be deleted as they are not used by the landing page:
+# - components/ui/sidebar.tsx
+# - components/ui/* (except for any used by landing page components)
+# - components/* (except Hero, About, Features, CallToAction, Services, Process, Blogs, Pricing, Contact, MotionWrapper, header, footer)
+# - app/auth/*
+# - store/*
+# - context/*
+# - types/*
+# - hooks/* (except those used by landing page components)
+# - lib/* (except those used by landing page components)
+# - Any other unused files
+#
+# This is a confirmation log. Actual file deletion will be performed next.
