@@ -103,16 +103,16 @@ export function Footer() {
             <div className="flex items-center space-x-4">
               <span className="text-blue-400 dark:text-blue-200 text-sm">Follow Us</span>
               <div className="flex space-x-3">
-                <Link href="#" className="text-blue-400 dark:text-blue-200 hover:text-white transition-colors">
+                <Link href="#" className="text-blue-400 dark:text-blue-200 hover:text-blue-800 transition-colors">
                   <Facebook className="w-5 h-5" />
                 </Link>
-                <Link href="#" className="text-blue-400 dark:text-blue-200 hover:text-white transition-colors">
+                <Link href="#" className="text-blue-400 dark:text-blue-200 hover:text-blue-800 transition-colors">
                   <Twitter className="w-5 h-5" />
                 </Link>
-                <Link href="#" className="text-blue-400 dark:text-blue-200 hover:text-white transition-colors">
+                <Link href="#" className="text-blue-400 dark:text-blue-200 hover:text-blue-800 transition-colors">
                   <Linkedin className="w-5 h-5" />
                 </Link>
-                <Link href="#" className="text-blue-400 dark:text-blue-200 hover:text-white transition-colors">
+                <Link href="#" className="text-blue-400 dark:text-blue-200 hover:text-blue-800 transition-colors">
                   <Youtube className="w-5 h-5" />
                 </Link>
               </div>
